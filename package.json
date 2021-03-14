@@ -1,0 +1,10 @@
+{
+  "name": "web-project-template",
+  "version": "0.1.0",
+  "description": "A template and starting place for interactive web projects.",
+  "main": "src/index.js",
+  "repository": "git@github.com:bengsfort/web-project-template.git",
+  "author": "Matt Bengston <bengsfort@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
